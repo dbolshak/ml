@@ -1,0 +1,16 @@
+===============================================================================
+While you are building a machine learning solution, you should answer, or at least keep in mind, the following questions:
+
+    What question(s) am I trying to answer? Do I think the data collected can answer that question?
+
+    What is the best way to phrase my question(s) as a machine learning problem?
+
+    Have I collected enough data to represent the problem I want to solve?
+
+    What features of the data did I extract, and will these enable the right predictions?
+
+    How will I measure success in my application?
+
+    How will the machine learning solution interact with other parts of my research or business product?
+
+===============================================================================
