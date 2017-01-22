@@ -1,5 +1,6 @@
 data point is a row
 propery that describes a data point is a column
+feature is the same as property
 
 sample
 Each entity or row here is known as a sample (or data point) in machine learning, while the columns—the properties that describe these entities—are called features
