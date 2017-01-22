@@ -1,0 +1,3 @@
+scikit-learn depends on two other Python packages, NumPy and SciPy.
+For plotting and interactive development, you should also install matplotlib, IPython, and the Jupyter Notebook.
+
