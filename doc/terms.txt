@@ -12,3 +12,6 @@ we want to predict one of several options (the species of iris). This is an exam
 The possible outputs in classification problem are called classes.
 
 For a particular data point, the species it belongs to is called its label.
+
+Remember that the individual items are called samples in machine learning, and their properties are called features. The shape of the data array is the number of samples multiplied by the number of features.
+
