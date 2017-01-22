@@ -6,3 +6,9 @@ sample
 Each entity or row here is known as a sample (or data point) in machine learning, while the columns—the properties that describe these entities—are called features
 
 building a good representation of data is feature extraction or feature engineering
+
+we want to predict one of several options (the species of iris). This is an example of a classification problem. The possible outputs (different species of irises) are called classes. Every iris in the dataset belongs to one of three classes, so this problem is a three-class classification problem.
+
+The possible outputs in classification problem are called classes.
+
+For a particular data point, the species it belongs to is called its label.
