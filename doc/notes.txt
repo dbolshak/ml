@@ -14,3 +14,7 @@ While you are building a machine learning solution, you should answer, or at lea
     How will the machine learning solution interact with other parts of my research or business product?
 
 ===============================================================================
+In scikit-learn, data is usually denoted with a capital X, while labels are denoted by a lowercase y. This is inspired by the standard formulation f(x)=y in mathematics, where x is the input to a function and y is the output. Following more conventions from mathematics, we use a capital X because the data is a two-dimensional array (a matrix) and a lowercase y because the target is a one-dimensional array (a vector).
+
+===============================================================================
+

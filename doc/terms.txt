@@ -15,3 +15,6 @@ For a particular data point, the species it belongs to is called its label.
 
 Remember that the individual items are called samples in machine learning, and their properties are called features. The shape of the data array is the number of samples multiplied by the number of features.
 
+training set (or training data)
+test set (or test data)
+
